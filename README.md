@@ -45,6 +45,4 @@ This repository is regularly updated as I:
 Rohan Kandepaneni
 GitHub:https://github.com/RoHaN-1-1
 
----
 
-If you want, I can make this sound more professional, more casual, or tailor it specifically for college applications / portfolios.
