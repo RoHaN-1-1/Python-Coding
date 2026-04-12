@@ -23,9 +23,11 @@ This repo includes:
 * Python
 * Pandas
 * NumPy
+* Jupyter Notebook
 * Matplotlib
 * Scikit-learn
 * Random Forest
+* Kaggle Datasets
 
 ---
 
