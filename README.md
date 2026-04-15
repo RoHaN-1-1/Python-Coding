@@ -1,3 +1,9 @@
+##  Author
+
+Rohan Kandepaneni
+
+GitHub: https://github.com/RoHaN-1-1
+
 # Python
 
 
@@ -14,6 +20,21 @@ This repo includes:
 * Machine learning work
 * Completed Leetcode questions listed by number
 
+
+---
+
+## Organization 
+
+This repo is organized into three main folders:
+
+* RohanML:
+  Contains all Machine Learning learning
+  RF = Random Forest
+  GD = Gradient Descent
+* Leetcode:
+  All leetcode questions I have completed
+* USACO:
+  All USACO questions that I have completed
 
 ---
 
@@ -64,12 +85,9 @@ Links to all datasets I used:
 * Weather Dataset:
   https://www.kaggle.com/datasets/budincsevity/szeged-weather?select=weatherHistory.csv
   
+---
 
 
 
-##  Author
-
-Rohan Kandepaneni
-GitHub:https://github.com/RoHaN-1-1
 
 
