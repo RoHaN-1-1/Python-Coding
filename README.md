@@ -78,6 +78,7 @@ Links to all datasets I used:
 * Iris Dataset:
   https://www.kaggle.com/datasets/uciml/iris
 * House Prices Dataset:
+  https://www.kaggle.com/datasets/yasserh/housing-prices-dataset?select=Housing.csv
 * Movie Recommendation Dataset:
   https://www.kaggle.com/datasets/shivamb/netflix-shows?select=netflix_titles.csv
 * Salary Prediction Dataset:
