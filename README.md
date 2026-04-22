@@ -51,6 +51,7 @@ This repo is organized into three main folders:
 * Scikit-learn
 * Random Forest
 * Kaggle Datasets
+* Neural Networks
 
 ---
 
