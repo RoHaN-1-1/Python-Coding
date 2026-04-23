@@ -25,7 +25,7 @@ This repo includes:
 
 ## Organization 
 
-This repo is organized into three main folders:
+This repo is organized into four main folders:
 
 * RohanML:
   Contains all Machine Learning learning
@@ -37,6 +37,8 @@ This repo is organized into three main folders:
   All leetcode questions I have completed
 * USACO:
   All USACO questions that I have completed
+* Neural Networks:
+  All code related to neural networks
 
 ---
 
@@ -51,6 +53,7 @@ This repo is organized into three main folders:
 * Scikit-learn
 * Random Forest
 * Kaggle Datasets
+* Neural Networks
 
 ---
 
