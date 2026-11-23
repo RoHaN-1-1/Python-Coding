@@ -9,6 +9,8 @@ GitHub: https://github.com/RoHaN-1-1
 
 This repository contains a collection of projects, experiments, and code I am currently working on. 
 
+Check out my github profile to see other projects I am working on.
+
 ---
 
 ##  Overview
