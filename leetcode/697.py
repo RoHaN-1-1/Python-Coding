@@ -1,4 +1,4 @@
-#Degree of an Array
+
 class Solution:
     def findShortestSubArray(self, nums: list[int]) -> int:
         count = {}

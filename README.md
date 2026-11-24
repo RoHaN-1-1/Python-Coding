@@ -9,6 +9,8 @@ GitHub: https://github.com/RoHaN-1-1
 
 This repository contains a collection of projects, experiments, and code I am currently working on. 
 
+Check out my github profile to see other projects I am working on.
+
 ---
 
 ##  Overview
@@ -94,6 +96,9 @@ Links to all datasets I used:
   https://www.kaggle.com/datasets/elikplim/concrete-compressive-strength-data-set?select=concrete_data.csv
 * Breast Cancer Dataset:
   https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset/data?select=breast-cancer.csv
+* Impact of AI on students:
+  https://www.kaggle.com/datasets/laveshjadon/ai-impact-on-students?select=ai_student_impact_dataset+%281%29.csv
+  
 ---
 
 
